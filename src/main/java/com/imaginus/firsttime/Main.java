@@ -2,6 +2,7 @@ package com.imaginus.firsttime;
 
 import com.imaginus.firsttime.init.ModBlocks;
 import com.imaginus.firsttime.init.ModItems;
+import com.imaginus.firsttime.init.ModRecipes;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import net.minecraft.init.Blocks;
@@ -22,6 +23,7 @@ public class Main
     public void preInit(FMLPreInitializationEvent event) {
         ModItems.init();
         ModBlocks.init();
+        ModRecipes.init();
     }
 
     @EventHandler
