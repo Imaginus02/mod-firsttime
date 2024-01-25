@@ -34,6 +34,8 @@ options.encoding = 'UTF-8'
 }
 
 dependencies {
+//    implementation 'org.lwjgl.lwjgl:lwjgl:3.2.3'
+//    implementation 'org.lwjgl.lwjgl:lwjgl-openal:3.2.3'
     // you may put jars on which you depend on in ./libs
     // or you may define them like so..
     //compile "some.group:artifact:version:classifier"

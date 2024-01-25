@@ -8,7 +8,7 @@ import net.minecraft.creativetab.CreativeTabs;
 import static com.imaginus.firsttime.Main.MODID;
 
 public class BlockVibranium extends Block {
-    private static  final String name = "vibranium_block";
+    private static final String name = "vibranium_block";
 
     public BlockVibranium() {
         super(Material.rock);

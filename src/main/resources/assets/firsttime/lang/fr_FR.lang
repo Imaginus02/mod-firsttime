@@ -1,0 +1,11 @@
+
+language.name=Français
+language.region=France
+language.code=fr_FR
+
+item.vibranium_ingot.name=Lingot de Vibranium
+item.vibranium_raw.name=Morceau de Vibranium
+item.vibranium_pickaxe.name=Pioche de Vibranium
+
+tile.vibranium_block.name=Bloc de Vibranium
+tile.vibranium_ore.name=Minerai de Vibranium

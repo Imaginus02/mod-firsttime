@@ -4,6 +4,14 @@ language.region=US
 language.code=en_US
 
 item.vibranium_ingot.name=Vibranium Ingot
+item.vibranium_raw.name=Lump of Vibranium
+
 item.vibranium_pickaxe.name=Vibranium Pickaxe
 
+item.vibranium_helmet.name=Vibranium Helmet
+item.vibranium_chestplate.name=Vibranium Chestplate
+item.vibranium_leggings.name=Vibranium Leggings
+item.vibranium_boots.name=Vibranium Boots
+
 tile.vibranium_block.name=Block of Vibranium
+tile.vibranium_ore.name=Vibranium Ore
